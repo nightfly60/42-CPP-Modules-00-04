@@ -20,7 +20,7 @@ I completed **all mandatory exercises and all bonuses in every module**.
 ---
 
 ## 🧠 Concepts Covered  
-- Namespaces, classes, member functions  
+- Classes, member functions  
 - Encapsulation & canonical form (Orthodox Canonical Class Form)  
 - Pointers, references, dynamic allocation  
 - Operator overloading  
@@ -58,7 +58,7 @@ J’ai réalisé **tous les exercices obligatoires ainsi que tous les bonus de c
 ---
 
 ## 🧠 Notions abordées  
-- Espaces de noms, classes, fonctions membres  
+- Classes, fonctions membres  
 - Encapsulation & forme canonique  
 - Pointeurs, références, allocation dynamique  
 - Surcharge d’opérateurs  
