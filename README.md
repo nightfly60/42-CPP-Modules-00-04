@@ -1,4 +1,4 @@
-# 💻 C++ - Modules CPP00 -> CPP04
+# 💻 C++ - Modules CPP-00 -> CPP-04
 
 ## 🌍 Languages  
 [English](#english-version) | [Français](#version-française)
