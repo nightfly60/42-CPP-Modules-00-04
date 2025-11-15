@@ -34,8 +34,7 @@ I completed **all mandatory exercises and all bonuses in every module**.
 ## ⚙️ Technical Details  
 - **Language:** C++98  
 - **Compiler flags:** `-Wall -Wextra -Werror -std=c++98`  
-- **Allowed:** Standard library (no STL containers in early modules)  
-- **Forbidden:** STL containers until allowed, external libraries  
+- **Allowed:** Standard library
 
 ---
 
@@ -72,8 +71,7 @@ J’ai réalisé **tous les exercices obligatoires ainsi que tous les bonus de c
 ## ⚙️ Détails techniques  
 - **Langage :** C++98  
 - **Compilation :** `-Wall -Wextra -Werror -std=c++98`  
-- **Autorisés :** Bibliothèque standard (sans conteneurs STL au début)  
-- **Interdits :** Conteneurs STL avant autorisation, bibliothèques externes  
+- **Autorisés :** Bibliothèque standard
 
 ---
 
